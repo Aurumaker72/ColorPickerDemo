@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgjPbXNN3dljjx2Sx6jfnAit+X8kZuN+1FY5+COM7MmVkkRtIKIfZAPFCf+XH897oHM4xAib6ZVQdljJkxXlEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\RiderProjects\\ColorPicker\\ColorPicker.ViewModels\\ColorPicker.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8Vdy0gzaqL6Wc1dFy+YrIrixCNKgNX06V7YHG99+GzsXJ/jvs798lg5GP8kAINOnOCCHfr+EpxCb0Il1+YsyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\RiderProjects\\ColorPicker\\ColorPicker.Views.WPF\\ColorPicker.Views.WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

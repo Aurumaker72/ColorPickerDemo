@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPicker.Views.WPF", "ColorPicker.Views.WPF\ColorPicker.Views.WPF.csproj", "{0A9EBC20-8BC5-4285-A5C9-91F724A11166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPicker.ViewModels", "ColorPicker.ViewModels\ColorPicker.ViewModels.csproj", "{A27B3A46-FC2B-402F-AB6B-9D29C1B35FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9EBC20-8BC5-4285-A5C9-91F724A11166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9EBC20-8BC5-4285-A5C9-91F724A11166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9EBC20-8BC5-4285-A5C9-91F724A11166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9EBC20-8BC5-4285-A5C9-91F724A11166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27B3A46-FC2B-402F-AB6B-9D29C1B35FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27B3A46-FC2B-402F-AB6B-9D29C1B35FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27B3A46-FC2B-402F-AB6B-9D29C1B35FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27B3A46-FC2B-402F-AB6B-9D29C1B35FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

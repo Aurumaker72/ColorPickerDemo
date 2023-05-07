@@ -1,0 +1,12 @@
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\bin\Debug\net7.0\ColorPicker.ViewModels.deps.json
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\bin\Debug\net7.0\ColorPicker.ViewModels.dll
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\bin\Debug\net7.0\ColorPicker.ViewModels.pdb
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\obj\Debug\net7.0\ColorPicker.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\obj\Debug\net7.0\ColorPicker.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\obj\Debug\net7.0\ColorPicker.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\obj\Debug\net7.0\ColorPicker.ViewModels.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\obj\Debug\net7.0\ColorPicker.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\obj\Debug\net7.0\ColorPicker.ViewModels.dll
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\obj\Debug\net7.0\refint\ColorPicker.ViewModels.dll
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\obj\Debug\net7.0\ColorPicker.ViewModels.pdb
+C:\Users\Alex\RiderProjects\ColorPicker\ColorPicker.ViewModels\obj\Debug\net7.0\ref\ColorPicker.ViewModels.dll
